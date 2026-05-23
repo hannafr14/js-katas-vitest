@@ -12,6 +12,7 @@
     "sass-w": "sass --watch ./src/sass/styles.scss ./src/css/styles.css"
   },
   "devDependencies": {
-    "sass": "^1.100.0"
+    "sass": "^1.100.0",
+    "vitest": "^4.1.7"
   }
 }
