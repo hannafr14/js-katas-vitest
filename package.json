@@ -1,0 +1,17 @@
+{
+  "name": "kata---fizzbuzz---js---vitest",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Hanna",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass ./src/sass/styles.scss ./src/css/styles.css",
+    "sass-w": "sass --watch ./src/sass/styles.scss ./src/css/styles.css"
+  },
+  "devDependencies": {
+    "sass": "^1.100.0"
+  }
+}
