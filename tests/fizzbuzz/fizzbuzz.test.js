@@ -1,5 +1,5 @@
 import {describe, expect, test } from 'vitest';
-import { fizzBuzz } from "../src/js/fizzbuzz.js";
+import { fizzBuzz } from "../../src/fizzbuzz/fizzbuzz.js";
 
 describe('fizzBuzz', () => {
     test("should return Fizz", () => {
