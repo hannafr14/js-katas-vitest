@@ -35,4 +35,4 @@ npm test
 ```
 ## Test screenshot
 
-![Test results](./test-results.png)
+![Test results](../../test-results.png)
