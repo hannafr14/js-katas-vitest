@@ -16,7 +16,7 @@ Rules:
 
 ```text
 .
-├── src/js/fizzbuzz.js
+├── src/fizzbuzz/fizzbuzz.js
 ├── tests/fizzbuzz.test.js
 ├── main.js
 ├── package.json
