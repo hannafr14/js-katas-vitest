@@ -27,7 +27,7 @@ Rules:
 ```text
 .
 |-- src/english/english.js
-|-- tests/english.test/english.test.js
+|-- tests/english.test.js
 |-- package.json
 `-- README.md
 ```
