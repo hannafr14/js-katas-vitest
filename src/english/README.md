@@ -31,3 +31,6 @@ Rules:
 |-- package.json
 `-- README.md
 ```
+## Test screenshot
+
+![Test results](../../test_english.png)
